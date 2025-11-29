@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Stellarion\build\_deps\nlohmann_json-subbuild\CMakeFiles\46d4b51b33a01c57946cd2b22b2d6489\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B322FCF7-9751-3144-82DA-D3E617811043}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
